@@ -1,4 +1,4 @@
-- I'm just an idiot who makes useless programs and video games
-- If you want to reach out: anjo1920. is my Discord
-- I don't finish projects that much, so i maybe gonna abandon stuff.
-- Have fun ;)
+- i make bots, programs and stuff in my free time
+- kinda interested in inner workings of crypto
+- daydreams all the time
+### Discord: anjo1920. (DONT FORGET THE DOT!!!)
