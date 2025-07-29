@@ -1,5 +1,7 @@
 ![Bi](https://raw.githubusercontent.com/ZoeBijl/QueerCats/refs/heads/main/MorningCoffee/PNG/QueerCatMorningCoffee_Bisexual.png)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjo2807&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false")](https://github.com/Anjo2807)
+
 i make bots, programs and stuff in my free time... and im not really active on github cuz i have a life (not really)
 
 ![status](https://api.statusbadges.me/badge/status/949217364510122024?simple=true&style=for-the-badge)
