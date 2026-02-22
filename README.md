@@ -1,4 +1,4 @@
-# IM ABANDONING GITHUB FOR GOOD
+# IM ABANDONING GITHUB FOR GOOD (not really cuz i want to contribute and stuff and most projects are here)
 git.gay: https://git.gay/Anjo1920
 
 
