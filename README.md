@@ -1,4 +1,3 @@
-# sadly im not leaving
 git.gay: https://git.gay/Anjo1920
 
 
